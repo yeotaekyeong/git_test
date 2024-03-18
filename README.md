@@ -91,3 +91,14 @@ git remote remove (origin 등 원격 이름)
 git clone (원격 저장소 주소, https://github.com/gin-girin-grim/git-practice.git)
 ```
 
+#### **Branch 합치기**
+
+- Merge : 두 브랜치를 한 커밋에 이어붙이는 방식
+  - 브랜치 사용 내역을 남길 필요가 있을 때
+  - 다른 형태의 merge도 있음
+
+
+
+![img](https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg)![img](https://blog.kakaocdn.net/dn/b9ClaD/btrWggzpd01/APTOF9NynXws7jZlErGinK/img.jpg)
+
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
