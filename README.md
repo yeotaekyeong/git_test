@@ -99,6 +99,7 @@ git clone (원격 저장소 주소, https://github.com/gin-girin-grim/git-practi
 
 
 
-![img](https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg)![img](https://blog.kakaocdn.net/dn/b9ClaD/btrWggzpd01/APTOF9NynXws7jZlErGinK/img.jpg)
+![image](https://github.com/yeotaekyeong/git_test/assets/156942422/2289aecd-55a6-4443-98ab-49966c55dc5d)![image](https://github.com/yeotaekyeong/git_test/assets/156942422/44ac215d-2398-42b2-af6c-364ec6fbc461)
+
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
